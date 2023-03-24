@@ -1,7 +1,7 @@
-problem link : https://www.hackerrank.com/challenges/rectangle-area/problem
+/*problem link : https://www.hackerrank.com/challenges/rectangle-area/problem
 
 
-solution :
+solution :                  */
 
 
 /*
