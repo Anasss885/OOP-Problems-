@@ -1,4 +1,4 @@
-THE QUESTION :
+/*THE QUESTION :
 
 
 
@@ -22,7 +22,7 @@ class ClassName {
         ret_type2 method2(type_arg3 arg3, type_arg4 arg4,...)
         ...
 };
-It's a common practice to make all variables private, and set/get them using public methods. For example:
+//It's a common practice to make all variables private, and set/get them using public methods. For example:
 
 class SampleClass {
     private:
@@ -35,9 +35,9 @@ class SampleClass {
             return val;
         }
 };
-We can store details related to a student in a class consisting of his age (int), first_name (string), last_name (string) and standard (int).
+//We can store details related to a student in a class consisting of his age (int), first_name (string), last_name (string) and standard (int).
 
-You have to create a class, named Student, representing the student's details, as mentioned above, and store the data of a student. Create setter and getter functions for each element; that is, the class should at least have following functions:
+//You have to create a class, named Student, representing the student's details, as mentioned above, and store the data of a student. Create setter and getter functions for each element; that is, the class should at least have following functions:
 
 get_age, set_age
 get_first_name, set_first_name
@@ -71,6 +71,7 @@ carmack, john
 10
 
 15,john,carmack,10
+*/
 
 
 
@@ -79,18 +80,13 @@ carmack, john
 
 
 
-
-THE SOLUTION IS : 
+//THE SOLUTION IS : 
 
 
 #include <iostream>
 #include <sstream>
 using namespace std;
 
-/*
-Enter code for class Student here.
-Read statement for specification.
-*/
 class Student{
     private:
     int age, standard;
