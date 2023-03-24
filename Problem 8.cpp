@@ -1,7 +1,7 @@
-Q:
+/*Q:
 Create an API for FaceBook&LinkedIn posts that accept(id,text,image) and show them (using oop concepts )
 
-Solution :
+Solution :              */
 
 
 #include<iostream>
