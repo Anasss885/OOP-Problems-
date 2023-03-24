@@ -1,12 +1,8 @@
-Q: Please , create an app that accept the same data in both classes but with differnt access modifires(public,private)
+/*Q: Please , create an app that accept the same data in both classes but with differnt access modifires(public,private)
 
-Solution :
+Solution :                     */ 
 
 #include<iostream>
-#include <algorithm> 
-#include <unordered_map>
-#include <unordered_set>
-#include <stdio.h>
 #include <string.h>
 #include <iomanip> 
 using namespace std;
