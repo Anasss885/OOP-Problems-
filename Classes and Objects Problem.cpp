@@ -1,8 +1,8 @@
-The Problem Statment is from hackerrank , the source: https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true
+//The Problem Statment is from hackerrank , the source: https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true
 
 
 
-The SOLUTION:
+//The SOLUTION:
 
 
 
