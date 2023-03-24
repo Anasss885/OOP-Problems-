@@ -1,30 +1,12 @@
-Q:
+/*Q:
 Create App that accept employee(id,name,number) and master (id,name,age) and print Data , But look :
 -id must be>0
 -num length must be <=2
 -age must be >7 and <30
 
-Solution :
+Solution :                    */
 
 #include<iostream>
-#include <algorithm> 
-#include <unordered_map>
-#include <unordered_set>
-#include <vector>
-#include <stack>
-#include <queue>
-#include <deque>
-#include<string>
-#include <set> 
-#include <map> 
-#include <cstdlib>
-#include <utility>
-#include <ctime>
-#include <cmath>
-#include <valarray>
-#include<sstream>  
-#include <stdio.h>
-#include <string.h>
 #include <iomanip> 
 using namespace std;
 #define ANOOS ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
