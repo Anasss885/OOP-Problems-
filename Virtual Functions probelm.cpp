@@ -1,8 +1,8 @@
-Problem link : https://www.hackerrank.com/challenges/virtual-functions/problem?isFullScreen=true
+/*Problem link : https://www.hackerrank.com/challenges/virtual-functions/problem?isFullScreen=true
 
 
 
-solution :
+solution :          */
 
 
 #include <cmath>
