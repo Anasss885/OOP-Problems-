@@ -1,7 +1,7 @@
-problem link : https://www.hackerrank.com/challenges/inheritance-introduction/problem
+///problem link : https://www.hackerrank.com/challenges/inheritance-introduction/problem
 
 
-solution :
+//solution :
 
 #include <cmath>
 #include <cstdio>
