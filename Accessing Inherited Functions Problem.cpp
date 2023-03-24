@@ -1,4 +1,4 @@
-Problem link : https://www.hackerrank.com/challenges/accessing-inherited-functions/problem?isFullScreen=true
+//Problem link : https://www.hackerrank.com/challenges/accessing-inherited-functions/problem?isFullScreen=true
 
 
 
