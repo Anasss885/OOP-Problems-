@@ -1,4 +1,4 @@
-Q:
+/*Q:
 Please , create app that accept 
 id,name,number,code of ClubBC
 id,name,number,licence of ClubRel
@@ -9,7 +9,7 @@ id,name,number,code
 id,name,number,licence
 using the oop concepts you have learned
 
-Solution :
+Solution :                       */
 #include<iostream>
 using namespace std;
 #define ANOOS ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
