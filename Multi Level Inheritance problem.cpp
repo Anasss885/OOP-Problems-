@@ -1,8 +1,8 @@
-problem link : https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
+//problem link : https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
 
 
 
-solution :
+//solution :
 
 
 #include <cmath>
