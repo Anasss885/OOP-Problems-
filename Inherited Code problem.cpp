@@ -1,6 +1,6 @@
-problem link (H.rank):https://www.hackerrank.com/challenges/inherited-code/problem?isFullScreen=true
+//problem link (H.rank):https://www.hackerrank.com/challenges/inherited-code/problem?isFullScreen=true
 
-solution :
+//solution :
 
 
 #include <iostream>
