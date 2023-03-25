@@ -2,7 +2,6 @@
 Q: Write a program to print the perimeter of a triangle that have sides of 3, 4 
 and 5 by creating a class named 'Triangle' without any parameter in its constructor and also user have an option to set the sides manually 
 */
-
 #include<iostream>
 using namespace std;
 #define ANOOS ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
@@ -11,33 +10,37 @@ using namespace std;
 //fonding on logical thinking 
 class triangle {
 private:
-    int x, y, z;
+    double x, y, z;
 public:
     triangle() {
         x = 3;
         y = 4;
         z = 5;
     }
-    void set_x(int x) {
+    void set_x(double x) {
         this->x = x;
     }
-    void set_y(int y) {
+    void set_y(double y) {
         this->y = y;
     }
-    void set_z(int z) {
+    void set_z(double z) {
         this->z = z;
     }
-    int get_x() {
+    double get_x() {
         return x;
     }
-    int get_y() {
+    double get_y() {
         return y;
     }
-    int get_z() {
+    double get_z() {
         return z;
     }
     void Triangle_perimeter() {
         cout<< x + y + z<<"\n";
+    }
+    void triangle_area() {
+        double s = (x + y + z) / 2;
+        cout << sqrt(s * (s - x)*(s - y)*(s - z));
     }
 };
 int main()
@@ -45,7 +48,7 @@ int main()
     ANOOS
         triangle t;
     t.Triangle_perimeter();
-
+    t.triangle_area();
 }
 
 
