@@ -9,7 +9,6 @@ Write a program by creating an 'Employee' class having the following methods and
 
 
 #include<iostream>
-#include <algorithm> 
 using namespace std;
 #define ANOOS ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 #define ll long long
@@ -48,6 +47,7 @@ int main()
       em.get_info(salary, number_of_daily_Working_hours);
      em.Add_salary();
     em.Add_work();
+    cout << "The Final salary = ";
     em.print_salary();
 
         
